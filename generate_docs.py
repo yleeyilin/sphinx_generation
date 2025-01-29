@@ -23,7 +23,7 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 # Configuration file for the Sphinx documentation builder.
 project = '{package_name}'
-author = 'QuantumDiamonds'
+author = 'Your_author_name'
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
